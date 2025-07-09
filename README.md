@@ -21,10 +21,12 @@ matplotlib, seaborn
 
 
 📁 File
-https://github.com/mari-alimadadi/DataScience-Notebooks/tree/main/is-the-earth-getting-hotter
+[Is-the-Earth-Getting-Hotter] (https://github.com/mari-alimadadi/Is-the-Earth-Getting-Hotter)
 
 📊 Dataset
-Dataset source: Global Land Temperatures – Kaggle
+Dataset source: [Global Land Temperatures – Kaggle] (https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
 
-Created by Mari Alimadadi
+---
+
+*Created by [Mari Alimadadi](https://github.com/mari-alimadadi)*
 
